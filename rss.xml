@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[∞]]></title>
+        <description><![CDATA[∞]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 01:08:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fixie tote bag post-ironic, enim incididunt keffiyeh small batch chambray. Scenester chartreuse enim next level, cillum magna sapiente sriracha actually salvia keytar nostrud trust fund. Portland stumptown biodiesel freegan. Dolore tacos nihil iPhone, vice flexitarian banjo freegan polaroid laboris brooklyn quinoa tote bag. +1 chartreuse green juice kitsch. Quis polaroid chia kickstarter. Cillum normcore butcher, church-key 3 wolf moon nulla franzen try-hard cliche.</p>]]></description>
+            <link>undefinedbbba362e-6fae-4342-8cee-8576aa93a73b/index.html</link>
+            <guid isPermaLink="false">bbba362e-6fae-4342-8cee-8576aa93a73b</guid>
+            <pubDate>Tue, 12 Jan 2016 01:08:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
