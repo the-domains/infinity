@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[∞]]></title>
         <description><![CDATA[∞]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/infinity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 01:08:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 01:11:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/infinity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fixie tote bag post-ironic, enim incididunt keffiyeh small batch chambray. Scenester chartreuse enim next level, cillum magna sapiente sriracha actually salvia keytar nostrud trust fund. Portland stumptown biodiesel freegan. Dolore tacos nihil iPhone, vice flexitarian banjo freegan polaroid laboris brooklyn quinoa tote bag. +1 chartreuse green juice kitsch. Quis polaroid chia kickstarter. Cillum normcore butcher, church-key 3 wolf moon nulla franzen try-hard cliche.</p>]]></description>
-            <link>undefinedbbba362e-6fae-4342-8cee-8576aa93a73b/index.html</link>
+            <link>https://thegrid.ai/infinity/dc1ebf7a-a1fe-49fe-bce9-bd5bf2914ca4/index.html</link>
+            <guid isPermaLink="false">dc1ebf7a-a1fe-49fe-bce9-bd5bf2914ca4</guid>
+            <pubDate>Tue, 12 Jan 2016 01:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fixie tote bag post-ironic, enim incididunt keffiyeh small batch chambray. Scenester chartreuse enim next level, cillum magna sapiente sriracha actually salvia keytar nostrud trust fund. Portland stumptown biodiesel freegan. Dolore tacos nihil iPhone, vice flexitarian banjo freegan polaroid laboris brooklyn quinoa tote bag. +1 chartreuse green juice kitsch. Quis polaroid chia kickstarter. Cillum normcore butcher, church-key 3 wolf moon nulla franzen try-hard cliche.</p>]]></description>
+            <link>https://thegrid.ai/infinity/bbba362e-6fae-4342-8cee-8576aa93a73b/index.html</link>
             <guid isPermaLink="false">bbba362e-6fae-4342-8cee-8576aa93a73b</guid>
             <pubDate>Tue, 12 Jan 2016 01:08:39 GMT</pubDate>
         </item>
